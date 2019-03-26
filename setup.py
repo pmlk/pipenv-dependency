@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='PipenvDependency',
+    name='pipenvdependency',
     version='0.0.0',
-    packages=['PipenvDependency'],
+    packages=['pipenvdependency'],
     include_package_data=True,
     install_requires=['numpy'],
 )
